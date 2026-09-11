@@ -1,4 +1,4 @@
-# Mesh Sentinel
+# Mesh Sentinel - WIP - v.0.1
 
 Mesh Sentinel is a coherence review layer for AI-native projects.
 
